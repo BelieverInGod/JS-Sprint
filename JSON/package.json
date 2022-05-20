@@ -1,0 +1,19 @@
+{
+  "name": "sever-js",
+  "version": "1.0.0",
+  "description": "my start in NODE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "script"
+  ],
+  "author": "Alexey Stepanyuk <stepanko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
